@@ -1,5 +1,5 @@
 # HeatMap
-Create Heat Map by using Leaflet.js 
+Creating a heat Map by using Leaflet.js 
 
-Heat Map for some points in Egypt \
-You can see the example in Index.php file
+- for some points in Egypt 
+- see the example in the `Index.php` file
